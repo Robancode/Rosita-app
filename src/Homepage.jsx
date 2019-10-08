@@ -9,6 +9,7 @@ const Homepage = () => {
       <div className="square-small"></div>
       <div className="polygon"></div>
       <div className="circle"></div>
+      <div className="footer"></div>
     </div>
   );
 };
